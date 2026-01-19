@@ -5,11 +5,8 @@
 ##################################
 
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Search
+    url: /egazette-search-landing/
+  - title: Current Notices
+    url: /egazette-browse/
